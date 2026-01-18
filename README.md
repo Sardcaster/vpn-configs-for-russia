@@ -1,6 +1,6 @@
 <div align="center">
   
-![maxresdefault](https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/vpn-configs-for-russia-3.svg)
+![maxresdefault](https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/vpn-configs-for-russia-4.svg)
 
 </div>
 
