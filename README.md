@@ -478,7 +478,7 @@ DNS-over-HTTPS (DoH) - это тот же DNS, только зашифрован
 
 **Но это заблуждение, провайдер мало что видит, если вы правильно ведете себя в сети.**
 
-Опишем стандартную работу интернета на HTTPS сайтах без VPN. Не путать с голым HTTP, который незашифрован. На дворе почти 2026 год, сайтов на HTTP почти не осталось.
+Опишем стандартную работу интернета на HTTPS сайтах без VPN. Не путать с голым HTTP, который незашифрован. На дворе 2026 год, сайтов на HTTP почти не осталось.
 
 **Разберем все по-отдельности.**
 
@@ -546,7 +546,9 @@ https://github.com/mozilla-firefox/firefox
 
 https://github.com/ungoogled-software/ungoogled-chromium-windows для Windows.
 
-https://github.com/ungoogled-software/ungoogled-chromium-debian для Linux (Ubuntu).
+https://github.com/ungoogled-software/ungoogled-chromium-portablelinux для Linux (Portable версия).
+
+https://github.com/ungoogled-software/ungoogled-chromium-macos для MacOS
 
 **в)** `Librewolf (кастомизированный Firefox)` - open-source браузер на движке Firefox c вырезанной телеметрией Mozilla Firefox, от независимых разработчиков. Я бы назвал это "конфиденциальный Firefox-браузер из коробки": скачал и запустил. Проверен широкой аудиторией. Удобен. С автообновлением (во время установки поставьте галочку). Сразу встроен  uBlock origin. Librewolf крут, но иногда из-за полуагрессивных настроек некоторые сайты со стримами могут ломаться или не открываться, хоть это и очень редко случалось.
 
