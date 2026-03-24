@@ -1,6 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 5
-# Date/Time: 2026-03-24 / 21:00 (Moscow)
-# Количество: 0
+# Date/Time: 2026-03-24 / 22:10 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
+vless://b98d68f9-cfd3-472a-a590-1a561ae158b6@89.208.87.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=maps.yandex.ru&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=f2e2d4c4b6a70788&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
+hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&amp;sni=www.cloudflare.com#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
